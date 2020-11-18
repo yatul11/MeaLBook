@@ -1,0 +1,6 @@
+framework module Pods_MealBook {
+  umbrella header "Pods-MealBook-umbrella.h"
+
+  export *
+  module * { export * }
+}
